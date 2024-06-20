@@ -17,4 +17,4 @@ Prerequisites
 6.  Jumper Wires
 
 
-https://github.com/HNam1234/Arduino-DHT11-Sensor-With-LCD/blob/b0c3878d5b72b8a5bcf4bcc3248583c99314c471/Dht11.jpg
+![Uploading Dht11.jpg…]()
